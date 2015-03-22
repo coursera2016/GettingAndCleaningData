@@ -20,8 +20,11 @@ The R script run_analysis.R in this repo does the following.
 
 ## Code Book for the tidy data set
 The tidy data set created by R script run_analysis.R contains the following variables:
+
 subject Numeric Subject ID  Range: 1-30
+
 activity  Numeric Activity Name Code: 1=WALKING; 2=WALKING_UPSTAIRS; 3=WALKING_DOWNSTAIRS; 4=SITTING; 5=STANDING; 6=LAYING
+
 tBodyAcc-mean()-X  Numeric	Average of tBodyAcc-mean()-X
 tBodyAcc-mean()-Y	Numeric	Average of tBodyAcc-mean()-Y
 tBodyAcc-mean()-Z	Numeric	Average of tBodyAcc-mean()-Z
