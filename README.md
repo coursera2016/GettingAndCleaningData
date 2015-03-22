@@ -23,14 +23,14 @@ The tidy data set created by R script run_analysis.R contains the following vari
 
 subject
 
-*Type: numeric 
-*Label: Subject ID  
+*Type: numeric
+*Label: Subject ID
 *Range: 1-30
 
 activity
 
-*Type: numeric 
-*Label: Activity Name 
+*Type: numeric
+*Label: Activity Name
 *Code: 1=WALKING; 2=WALKING_UPSTAIRS; 3=WALKING_DOWNSTAIRS; 4=SITTING; 5=STANDING; 6=LAYING
 
 tBodyAcc-mean()-X
